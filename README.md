@@ -1,1 +1,1 @@
-# This repository contains the projects and website clones that I have created for learning and practice purposes #
+#Uploading the projects and website clones I built while learning.#
